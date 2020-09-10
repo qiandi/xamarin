@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace EntryTutorial
+namespace EditorTutorial
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
@@ -18,15 +18,15 @@ namespace EntryTutorial
             InitializeComponent();
         }
 
-        private void OnEntryTextChanged(object sender, TextChangedEventArgs e)
+        private void OnEditorTextChanged(object sender, TextChangedEventArgs e)
         {
             string oldText = e.OldTextValue;
             string newText = e.NewTextValue;
         }
 
-        private void OnEntryCompleted(object sender, EventArgs e)
+        private void OnEditorCompleted(object sender, EventArgs e)
         {
-            string text = ((Entry)sender).Text;
+            string text = ((Editor)sender).Text;
         }
     }
 }
