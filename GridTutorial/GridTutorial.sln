@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTutorial.Android", "GridTutorial\GridTutorial.Android\GridTutorial.Android.csproj", "{42FEF4AD-17F2-42AE-AD46-40F18A971723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTutorial", "GridTutorial\GridTutorial\GridTutorial.csproj", "{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FEF4AD-17F2-42AE-AD46-40F18A971723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FEF4AD-17F2-42AE-AD46-40F18A971723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FEF4AD-17F2-42AE-AD46-40F18A971723}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42FEF4AD-17F2-42AE-AD46-40F18A971723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FEF4AD-17F2-42AE-AD46-40F18A971723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FEF4AD-17F2-42AE-AD46-40F18A971723}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F3EA7E-69A3-40F5-B641-E1B2CD95C7C2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324671C5-086F-49ED-B309-1A1630144BED}
+	EndGlobalSection
+EndGlobal
