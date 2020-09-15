@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalDatabaseTutorial.Android", "LocalDatabaseTutorial\LocalDatabaseTutorial.Android\LocalDatabaseTutorial.Android.csproj", "{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalDatabaseTutorial", "LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.csproj", "{0DF34E70-F216-490C-9E07-75208C6426AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDB40B2-9F5D-4963-84B1-37D6FB9A29EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0DF34E70-F216-490C-9E07-75208C6426AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF34E70-F216-490C-9E07-75208C6426AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF34E70-F216-490C-9E07-75208C6426AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0DF34E70-F216-490C-9E07-75208C6426AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF34E70-F216-490C-9E07-75208C6426AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF34E70-F216-490C-9E07-75208C6426AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6C849A-288A-4EDF-8C17-346676DFA2A9}
+	EndGlobalSection
+EndGlobal
